@@ -1,0 +1,327 @@
+.body {
+
+
+}
+
+
+
+.title {
+
+
+}
+
+
+
+
+.header {
+
+
+ }
+
+ .information {
+
+
+ }
+
+
+ .jared {
+
+
+
+ }
+ .bio {
+
+
+ }
+ .about {
+
+
+}
+
+
+
+
+
+.graphs {
+
+
+ }
+
+
+ .graphinfo {
+
+
+ }
+
+
+ .graphround {
+
+
+}
+
+
+\\ written for my coding skill graph\\
+
+.codeexp {
+    border-radius: 5px;
+    border: #5543a5;
+    border-style: ridge;
+    width: 525px;
+    background: #020202;
+    
+ }.coderow{
+     width:510px;
+     border:rgb(196, 42, 144);
+     border-style: dotted;
+     background: #c77ad6;
+     text-align: center;
+     font-size: 35px;
+     font-style: initial;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+ }.codelvl {
+     border-radius:0px;
+     box-shadow: none;
+     border-color: black;
+     background: #b19af1;
+     border-width: 5px;
+     border-style:solid;
+     width: 500px;
+     height: 1025px;
+ }.codetitle {
+     font-size: 20px;
+     font-weight: 820px;
+     font-style:initial;
+     color:rgb(126, 36, 168);
+     margin: 0 0 25px;
+ }.codepink{
+     height: 30px;
+     background: rgb(248, 140, 225);
+     box-shadow: none;
+     margin-bottom:45px;
+ }.codegold{
+     height: 30px;
+     background: rgb(229, 233, 193);
+     box-shadow: none;
+     margin-bottom:45px;
+ }.codebar {
+     width: 400px;
+     box-shadow:none;
+     border-style:double;
+     border-color: rgb(189, 12, 144);
+     border-end-end-radius: 16px;
+     border-width: 16px;
+     position:relative;
+     -webkit-animation: animation-positive 8s;
+     animation: animate-positive 12s;
+ }.codebar:before,
+  .codebar:after{
+     content:"";
+     width:800PX;
+     height:-5PX;
+     background: rgb(241, 177, 220);
+     position:absolute;
+     top:-11px;
+     right:-5px;
+    
+ }.codebar:after{
+     border:4px double #fff;
+     border-radius: 10px;
+     position:absolute;
+ 
+    
+     }.codebar.codegold:before,
+      .codebar.codegold:after{
+     content:"";
+     width:600PX;
+     height:12PX;
+     background: rgb(241, 177, 220);
+     position:absolute;
+     top:-11px;
+     right:-5px;
+    
+    }.codebar.codegold:after{
+        border:#fff;
+        border-radius: 10px;
+        position:absolute;
+    
+       
+     }.codebar.codepink:before,
+      .codebar.codepink:after{
+        content:"";
+        width:500PX;
+        height:12Px;
+        position:absolute;
+        top:-11px;
+        right:-5px;
+       
+    }.codebar.codepink:after{
+        border:4px double #fff;
+        border-radius: 10px;
+        position:absolute;
+ 
+     
+     }
+     @-webkit-keyframes animate-positive{
+      0%{ width: 0; }
+     }
+     @keyframes animate-positive{
+         0%{ width: 0; }
+}
+
+
+
+
+
+
+
+
+
+
+.interest{
+
+
+
+ }
+
+
+
+
+ .myinterest{
+
+
+
+
+}
+
+
+
+
+.links {
+
+
+
+ }
+
+
+
+ .linkme{
+
+
+
+
+}
+
+
+
+
+
+.projectcard{
+
+
+
+ }
+
+
+ .card{
+
+
+    
+ }
+ .card2{
+ 
+
+ }
+ .card3{
+
+   
+ }
+ .card4{
+
+
+ }
+ .card5{
+
+   
+ }
+ .card6{
+
+
+ }
+ .card7{
+
+  
+}
+
+
+
+
+
+.navlinks {
+
+
+ }
+
+ 
+
+ .navbutton {
+ 
+
+
+ }
+
+
+
+ .navbuttontext {
+
+
+
+}
+
+
+
+
+
+.coinwrap {
+
+
+
+ }
+
+
+
+ .coin {
+
+
+
+ }
+
+
+
+ .coinf {
+
+
+
+ }
+
+
+ .coinm {
+
+
+
+ }
+
+
+
+ .coinb {
+
+
+
+}
+
+
+
+
+
+
+
